@@ -83,7 +83,7 @@ int main(int argc, char *argv[])
     cout << test.getTotalMemory() << endl;
 
 */
-    Song one("Senteon_Void","Bilal",2);
+    Song one("Bilal","Senteon_Void",2);
     Song two("Clayman","InFlames",3);
     Song three("Neverwhere","AttheGates",4);
     Song four("TheSeedofEye","Behemoth",5);
